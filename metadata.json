@@ -1,0 +1,8 @@
+{
+  "name": "GSRTC Propar KM Register & Fleet Studio",
+  "description": "Android mobile-first PWA for GSRTC Propar KM tracking, vehicle maintenance programs, docking & filter service warnings, and AI image studio for fleet inspections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
